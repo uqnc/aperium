@@ -1,0 +1,23 @@
+{
+  "name": "dangerous-disk",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/tailwind": "^5.1.0",
+    "@astrojs/vue": "^4.0.10",
+    "astro": "^4.5.14",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vue": "^3.4.21"
+  }
+}
