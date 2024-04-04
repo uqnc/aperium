@@ -5,10 +5,12 @@ export default {
 	theme: {
 		screens: {
 			'xss': '280px',
-			'xs': '350px',
+			'xs': '370px',
 			'sm': '390px',
+			'xm': '414px',
+			'xlm': '425px',
 			'md': '768px',
-			'lg': '1024px',
+			'lg': '1124px',
 			'xl': '1920px'
 		},
 		extend: {
